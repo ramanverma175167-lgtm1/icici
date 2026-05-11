@@ -237,7 +237,7 @@ export default function PaymentForm() {
           Your information is encrypted and securely transmitted.
         </p>
         <p className="secure-text">
-          Axis follows international PCI-DSS compliance for all transactions.
+          ICICI follows international PCI-DSS compliance for all transactions.
         </p>
       </div>
     </div>
